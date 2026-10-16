@@ -1,0 +1,33 @@
+{
+  "format": "pku-memory-map-v1",
+  "updatedAt": "2026-10-16T00:00:00.000Z",
+  "places": [
+    {
+      "id": "sample-1",
+      "name": "西侧门（内侧）",
+      "x": 19.5,
+      "y": 43.5,
+      "color": "#C6533B",
+      "photo": "",
+      "description": "第一份校园记忆 ✌️"
+    },
+    {
+      "id": "sample-2",
+      "name": "国际关系学院",
+      "x": 34,
+      "y": 43,
+      "color": "#E28A32",
+      "photo": "",
+      "description": "在这里留下我们的故事 ✌️"
+    },
+    {
+      "id": "sample-3",
+      "name": "博雅塔",
+      "x": 60,
+      "y": 40,
+      "color": "#D2A62D",
+      "photo": "",
+      "description": "想起博雅塔的时候 ✌️"
+    }
+  ]
+}
